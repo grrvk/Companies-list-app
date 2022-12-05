@@ -1,0 +1,29 @@
+[
+  {
+    "ItType" : "Word processor",
+    "Version" : "16.64",
+    "PathToDistr" : "\/Applications\/Microsoft Word.app",
+    "Author" : "Microsoft",
+    "Conditions" : "Trialware",
+    "Name" : "Microsoft Word",
+    "Annotation" : "Word processing software"
+  },
+  {
+    "ItType" : "Spreadsheet",
+    "Version" : "16.56",
+    "PathToDistr" : "\/Applications\/Microsoft Excel.app",
+    "Author" : "Microsoft",
+    "Conditions" : "Proprietary commercial software",
+    "Name" : "Microsoft Excel",
+    "Annotation" : "Features calculation"
+  },
+  {
+    "ItType" : "Presentation program",
+    "Version" : "16.56",
+    "PathToDistr" : "\/Microsoft PowerPoint.app",
+    "Author" : "Robert Gaskins and Dennis Austin",
+    "Conditions" : "Trialware",
+    "Name" : "Microsoft PowerPoint",
+    "Annotation" : "Presentation program"
+  }
+]
